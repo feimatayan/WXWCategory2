@@ -1,6 +1,0 @@
-framework module GLAmr {
-  umbrella header "GLAmr.h"
-
-  export *
-  module * { export * }
-}

@@ -1,6 +1,0 @@
-framework module WDIMExtension {
-  umbrella header "WDIMExtension.h"
-
-  export *
-  module * { export * }
-}

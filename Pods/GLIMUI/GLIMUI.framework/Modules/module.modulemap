@@ -1,6 +1,0 @@
-framework module GLIMUI {
-  umbrella header "GLIMUI.h"
-
-  export *
-  module * { export * }
-}

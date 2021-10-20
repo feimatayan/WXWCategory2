@@ -1,6 +1,0 @@
-framework module GLImageProcessor {
-  umbrella header "GLImageProcessor.h"
-
-  export *
-  module * { export * }
-}

@@ -1,6 +1,0 @@
-framework module GLIMSDK {
-  umbrella header "GLIMSDK.h"
-
-  export *
-  module * { export * }
-}
