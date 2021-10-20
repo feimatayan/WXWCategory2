@@ -1,0 +1,29 @@
+im_jsonconf_callback({
+  "entry": [
+    {
+      "ip": "imtcp1.weidian.com",
+      "port": 443,
+      "url": "https://hentry.api.weidian.com",
+      "weight": 0
+    },
+    {
+      "ip": "imtcp2.weidian.com",
+      "port": 443,
+      "url": "https://hentry.api.weidian.com",
+      "weight": 0
+    },
+    {
+      "ip": "imtcp3.weidian.com",
+      "port": 443,
+      "url": "https://hentry.api.weidian.com",
+      "weight": 0
+    }
+  ],
+  "safelink":[
+    {
+      "link": "im-entry.weidian.com",
+      "port": 443,
+      "weight": 0
+    }],
+  "max_connect": 3
+})
